@@ -6,7 +6,9 @@ Received skills(more-less):
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black)
 
 Contacts:
+
 [telegram](https://t.me/naijel)
+
 [linkedin](https://www.linkedin.com/in/andrey-chistabayeu-5048aa172/)
 
 
