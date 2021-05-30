@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![HTML](https://img.shields.io/badge/-HTML-orange)
 <!--
 **naijelo/naijelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
