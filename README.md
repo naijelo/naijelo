@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello 👋 My name is Andrey.
+
+I'm learning to become frontend developer.
+
+Received skills(more-less):
+![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black)
 
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
+
 <!--
 **naijelo/naijelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
