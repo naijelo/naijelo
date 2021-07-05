@@ -14,8 +14,8 @@ Password: free<br/>
 
 
 ## Contacts:
-[telegram](https://t.me/naijel)
-[linkedin](https://www.linkedin.com/in/andrey-chistabayeu-5048aa172/)
+[telegram](https://t.me/naijel)<br/>
+[linkedin](https://www.linkedin.com/in/andrey-chistabayeu-5048aa172/)<br/>
 
 
 <!--
