@@ -14,8 +14,10 @@ Password: free<br/>
 
 ---
 
-[Wildlife](https://naijelo.github.io/wildlife/)
-Simple Project made with HTML & CSS, without JS. Done for training work with Pixel Perfect.
+[Wildlife](https://naijelo.github.io/wildlife/)<br/>
+Simple Project made with HTML & CSS, without JS. Done for training work with Pixel Perfect.<br/>
+
+---
 
 ## Contacts:
 [telegram](https://t.me/naijel)<br/>
