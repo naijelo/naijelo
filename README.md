@@ -12,6 +12,10 @@ For fully posibility of test this application you can use the login and password
 Login: free@samuraijs.com<br/>
 Password: free<br/>
 
+---
+
+[Wildlife](https://naijelo.github.io/wildlife/)
+Simple Project made with HTML & CSS, without JS. Done for training work with Pixel Perfect.
 
 ## Contacts:
 [telegram](https://t.me/naijel)<br/>
