@@ -6,11 +6,11 @@ I'm learning to become frontend developer.
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black)
 
 ## Projects:
-[Demo Social network](https://naijelo.github.io/it_samurai/#/)
-It is a demo of a social network. In this project I used React and Redux.
-For fully posibility of test this application you can use the login and passwords below:
-Login: free@samuraijs.com
-Password: free
+[Demo Social network](https://naijelo.github.io/it_samurai/#/)<br/>
+It is a demo of a social network. In this project I used React and Redux.<br/>
+For fully posibility of test this application you can use the login and passwords below:<br/>
+Login: free@samuraijs.com<br/>
+Password: free<br/>
 
 
 ## Contacts:
