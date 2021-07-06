@@ -2,7 +2,7 @@
 
 I'm learning to become frontend developer.
 
-## Received skills (more-less):
+## Received skills:
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black)
 
 ## Projects:
