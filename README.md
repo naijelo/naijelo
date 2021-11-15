@@ -3,7 +3,7 @@
 I'm learning to become frontend developer.
 
 ## Received skills:
-![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black)
+![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-testing: jest and enzyme-grey)
 
 ## Projects:
 [Demo Social network](https://naijelo.github.io/it_samurai/#/)<br/>
