@@ -1,9 +1,10 @@
 ### Hello 👋 My name is Andrey.
 
 I'm learning to become frontend developer.
+Presently, I use JS and React in my mini-projects. Link to some of them i put below on this page.
 
 ## Received skills:
-![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-jest_enzyme"-grey)
+![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS+sass/less-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-jest+enzyme-grey) ![HTML](https://img.shields.io/badge/-storybook-pink)
 
 ## Projects:
 [Demo Social network](https://naijelo.github.io/it_samurai/#/)<br/>
