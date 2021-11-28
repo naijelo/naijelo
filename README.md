@@ -20,6 +20,10 @@ Simple Project made with HTML & CSS, without JS. Done for training work with Pix
 
 ---
 
+[TicketSearch] (https://github.com/naijelo/ticket-search)<br/>
+Service for search tickets based on Aviasales API.
+I used Jest+Enzyme for testing this application.
+
 ## Contacts:
 [telegram](https://t.me/naijel)<br/>
 [linkedin](https://www.linkedin.com/in/andrey-chistabayeu-5048aa172/)<br/>
