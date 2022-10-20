@@ -1,7 +1,7 @@
 ### Hello 👋 My name is Andrey.
 
-I'm learning to become frontend developer.
-Presently, I use JS and React in my mini-projects. Link to some of them i put below on this page.
+I'm frontend developer.
+Presently, I use JS and React with Redux and Typescript. Link to some of them i put below on this page.
 
 ## Received skills:
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS+sass/less-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-jest+enzyme-grey) ![HTML](https://img.shields.io/badge/-storybook-pink)
@@ -16,7 +16,7 @@ Password: free<br/>
 ---
 
 [Wildlife](https://naijelo.github.io/wildlife/)<br/>
-Simple Project made with HTML & CSS, without JS. Done for training work with Pixel Perfect.<br/>
+Simple Project made with HTML & CSS. It's without JS and serves like a PixelPerfect project example<br/>
 
 ---
 
