@@ -7,11 +7,14 @@ Presently, I use JS and React with Redux and Typescript. Link to some of them i 
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS+sass/less-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-jest+enzyme-grey) ![HTML](https://img.shields.io/badge/-storybook-pink)
 
 ## Projects:
-[Demo Social network](https://naijelo.github.io/it_samurai/#/)<br/>
-It is a demo of a social network. In this project I used React and Redux.<br/>
-For fully posibility of test this application you can use the login and passwords below:<br/>
-Login: free@samuraijs.com<br/>
-Password: free<br/>
+
+[e-commerce - Crwn-clothing](https://crwn-clothing-naijelo.vercel.app/)</br>
+React - Redux - Typescript application for online clothing shop.
+
+---
+
+[Shelter](https://naijelo.github.io/shelter)</br>
+HTML + CSS + JS. Realisation: fully adaptive, burger, slider, modal window.
 
 ---
 
@@ -23,6 +26,20 @@ Simple Project made with HTML & CSS. It's without JS and serves like a PixelPerf
 [TicketSearch](https://github.com/naijelo/ticket-search)<br/>
 Service for search tickets based on Aviasales API.
 I used Jest+Enzyme for testing this application.
+
+---
+
+[Charity Fund Site](https://naijelo.github.io/test-charity)</br>
+Test task. HTML + CSS, fully adaptive layout.
+
+---
+
+<!--[Demo Social network](https://naijelo.github.io/it_samurai/#/)<br/>
+It is a demo of a social network. In this project I used React and Redux.<br/>
+For fully posibility of test this application you can use the login and passwords below:<br/>
+Login: free@samuraijs.com<br/>
+Password: free<br/> -->
+
 
 ## Contacts:
 [telegram](https://t.me/naijel)<br/>
