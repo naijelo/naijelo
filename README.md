@@ -30,7 +30,8 @@ I used Jest+Enzyme for testing this application.
 ---
 
 [Charity Fund Site](https://naijelo.github.io/test-charity)</br>
-Test task. HTML + CSS, fully adaptive layout.
+Test task. HTML + CSS, fully adaptive layout.-->
+
 
 ---
 
@@ -47,7 +48,7 @@ Password: free<br/> -->
 
 
 
-**naijelo/naijelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**naijelo/naijelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
