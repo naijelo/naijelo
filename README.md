@@ -6,7 +6,7 @@ Presently, I use JS and React with Redux and Typescript. Link to some of them i 
 ## Received skills:
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS+sass/less-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-jest+enzyme-grey) ![HTML](https://img.shields.io/badge/-storybook-pink)
 
-## Projects:
+<!--## Projects:
 
 [e-commerce - Crwn-clothing](https://crwn-clothing-naijelo.vercel.app/)</br>
 React - Redux - Typescript application for online clothing shop.
@@ -46,7 +46,7 @@ Password: free<br/> -->
 [linkedin](https://www.linkedin.com/in/andrey-chistabayeu-5048aa172/)<br/>
 
 
-<!--
+
 **naijelo/naijelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
