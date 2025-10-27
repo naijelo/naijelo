@@ -1,7 +1,7 @@
 ### Hello 👋 My name is Andrey.
 
 I'm frontend developer.
-Presently, I use JS and React with Redux and Typescript. Link to some of them i put below on this page.
+Presently, I use React with Redux or Zustand and Typescript. Link to some of them i put below on this page.
 
 ## Received skills:
 ![HTML](https://img.shields.io/badge/-JS-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![HTML](https://img.shields.io/badge/-CSS+sass/less-blue) ![HTML](https://img.shields.io/badge/-react-orange) ![HTML](https://img.shields.io/badge/-redux-black) ![HTML](https://img.shields.io/badge/-jest+enzyme-grey) ![HTML](https://img.shields.io/badge/-storybook-pink)
